@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\bin\Debug\netcoreapp3.1\4- Média ponderada.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\4- Média ponderada\obj\Debug\netcoreapp3.1\4- Média ponderada.genruntimeconfig.cache

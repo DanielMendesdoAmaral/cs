@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\bin\Debug\netcoreapp3.1\5- Múltiplos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\5- Múltiplos\obj\Debug\netcoreapp3.1\5- Múltiplos.genruntimeconfig.cache

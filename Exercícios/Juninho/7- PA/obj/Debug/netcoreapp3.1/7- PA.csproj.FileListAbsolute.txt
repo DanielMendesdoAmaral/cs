@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\bin\Debug\netcoreapp3.1\7- PA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\7- PA\obj\Debug\netcoreapp3.1\7- PA.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\bin\Debug\netcoreapp3.1\1- Printar número ao contrário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\1- Printar número ao contrário\obj\Debug\netcoreapp3.1\1- Printar número ao contrário.genruntimeconfig.cache

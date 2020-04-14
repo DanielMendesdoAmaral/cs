@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\bin\Debug\netcoreapp3.1\6- Somatória de PA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\6- Somatória de PA\obj\Debug\netcoreapp3.1\6- Somatória de PA.genruntimeconfig.cache

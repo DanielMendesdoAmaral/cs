@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\bin\Debug\netcoreapp3.1\2- Loja de tintas.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\2- Loja de tintas\obj\Debug\netcoreapp3.1\2- Loja de tintas.genruntimeconfig.cache

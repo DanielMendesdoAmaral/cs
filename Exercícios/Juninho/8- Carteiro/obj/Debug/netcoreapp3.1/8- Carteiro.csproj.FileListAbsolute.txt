@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\bin\Debug\netcoreapp3.1\8- Carteiro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\8- Carteiro\obj\Debug\netcoreapp3.1\8- Carteiro.genruntimeconfig.cache

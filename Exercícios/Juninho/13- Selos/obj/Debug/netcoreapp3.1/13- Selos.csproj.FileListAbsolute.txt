@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\bin\Debug\netcoreapp3.1\13- Selos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\13- Selos\obj\Debug\netcoreapp3.1\13- Selos.genruntimeconfig.cache

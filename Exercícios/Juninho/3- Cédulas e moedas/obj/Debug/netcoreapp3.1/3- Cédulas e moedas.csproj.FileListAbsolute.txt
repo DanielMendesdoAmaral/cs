@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\bin\Debug\netcoreapp3.1\3- Cédulas e moedas.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\Torne-se um programador - C#\Exercícios\Juninho\3- Cédulas e moedas\obj\Debug\netcoreapp3.1\3- Cédulas e moedas.genruntimeconfig.cache
