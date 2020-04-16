@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Torne-se um programador - C#\\Exercícios\\Arrays e Collections\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
+      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
       "projectName": "Desafio - Jogo da velha",
-      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Torne-se um programador - C#\\Exercícios\\Arrays e Collections\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
+      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
       "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Torne-se um programador - C#\\Exercícios\\Arrays e Collections\\Desafio - Jogo da velha\\obj\\",
+      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",
