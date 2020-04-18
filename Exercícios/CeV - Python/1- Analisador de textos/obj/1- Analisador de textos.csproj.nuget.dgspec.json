@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj": {}
+    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\CeV - Python\\1- Analisador de textos\\1- Analisador de textos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj": {
+    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\CeV - Python\\1- Analisador de textos\\1- Analisador de textos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj",
-        "projectName": "Aula 3",
-        "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj",
+        "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\CeV - Python\\1- Analisador de textos\\1- Analisador de textos.csproj",
+        "projectName": "1- Analisador de textos",
+        "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\CeV - Python\\1- Analisador de textos\\1- Analisador de textos.csproj",
         "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\obj\\",
+        "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\CeV - Python\\1- Analisador de textos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj",
-      "projectName": "Aula 3",
-      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\Aula 3.csproj",
+      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 6 - Formatando a saída do console\\Aula 6 - Formatando a saída do console.csproj",
+      "projectName": "Aula 6 - Formatando a saída do console",
+      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 6 - Formatando a saída do console\\Aula 6 - Formatando a saída do console.csproj",
       "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Aula 3 - Variáveis e tipos primitivos\\obj\\",
+      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 6 - Formatando a saída do console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",

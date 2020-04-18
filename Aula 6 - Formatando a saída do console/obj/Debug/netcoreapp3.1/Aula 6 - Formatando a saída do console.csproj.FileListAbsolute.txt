@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\bin\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 6 - Formatando a saída do console\obj\Debug\netcoreapp3.1\Aula 6 - Formatando a saída do console.genruntimeconfig.cache

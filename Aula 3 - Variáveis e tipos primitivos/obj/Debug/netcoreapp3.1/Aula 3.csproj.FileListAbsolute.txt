@@ -1,4 +1,0 @@
-C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Aula 3 - Variáveis e tipos primitivos\obj\Debug\netcoreapp3.1\Aula 3.csprojAssemblyReference.cache
-C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Aula 3 - Variáveis e tipos primitivos\obj\Debug\netcoreapp3.1\Aula 3.csproj.CoreCompileInputs.cache
-C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Aula 3 - Variáveis e tipos primitivos\obj\Debug\netcoreapp3.1\Aula 3.AssemblyInfoInputs.cache
-C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Aula 3 - Variáveis e tipos primitivos\obj\Debug\netcoreapp3.1\Aula 3.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\bin\Debug\netcoreapp3.1\Aula 7 - Constantes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 7 - Constantes\obj\Debug\netcoreapp3.1\Aula 7 - Constantes.genruntimeconfig.cache
