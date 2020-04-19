@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\bin\Debug\netcoreapp3.1\2- Separando dígitos de um número.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\Strings\2- Separando dígitos de um número\obj\Debug\netcoreapp3.1\2- Separando dígitos de um número.genruntimeconfig.cache

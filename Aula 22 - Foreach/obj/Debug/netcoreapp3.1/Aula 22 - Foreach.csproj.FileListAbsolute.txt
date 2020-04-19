@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\bin\Debug\netcoreapp3.1\Aula 22 - Foreach.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 22 - Foreach\obj\Debug\netcoreapp3.1\Aula 22 - Foreach.genruntimeconfig.cache

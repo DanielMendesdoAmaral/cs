@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\bin\Debug\netcoreapp3.1\Aula 15 - Switch case.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 15 - Switch case\obj\Debug\netcoreapp3.1\Aula 15 - Switch case.genruntimeconfig.cache

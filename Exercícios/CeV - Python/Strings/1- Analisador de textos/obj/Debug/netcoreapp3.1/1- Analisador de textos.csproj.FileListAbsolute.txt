@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\bin\Debug\netcoreapp3.1\1- Analisador de textos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\CeV - Python\1- Analisador de textos\obj\Debug\netcoreapp3.1\1- Analisador de textos.genruntimeconfig.cache

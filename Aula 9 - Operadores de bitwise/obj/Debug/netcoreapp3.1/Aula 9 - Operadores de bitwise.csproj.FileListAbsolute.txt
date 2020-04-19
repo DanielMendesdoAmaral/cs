@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\bin\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 9 - Operadores de bitwise\obj\Debug\netcoreapp3.1\Aula 9 - Operadores de bitwise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\bin\Debug\netcoreapp3.1\Aula 10 - Enumeradores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 10 - Enumeradores\obj\Debug\netcoreapp3.1\Aula 10 - Enumeradores.genruntimeconfig.cache

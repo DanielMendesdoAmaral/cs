@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\bin\Debug\netcoreapp3.1\Aula 18 - Matrizes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 18 - Matrizes\obj\Debug\netcoreapp3.1\Aula 18 - Matrizes.genruntimeconfig.cache
