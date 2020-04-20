@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\bin\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 25 - Passagem por valor e por referência\obj\Debug\netcoreapp3.1\Aula 25 - Passagem por valor e por referência.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\bin\Debug\netcoreapp3.1\Aula 27 - Argumento params.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 27 - Argumento params\obj\Debug\netcoreapp3.1\Aula 27 - Argumento params.genruntimeconfig.cache

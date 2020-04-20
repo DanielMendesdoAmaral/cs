@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\bin\Debug\netcoreapp3.1\Aula 26 - Argumento out.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 26 - Argumento out\obj\Debug\netcoreapp3.1\Aula 26 - Argumento out.genruntimeconfig.cache
