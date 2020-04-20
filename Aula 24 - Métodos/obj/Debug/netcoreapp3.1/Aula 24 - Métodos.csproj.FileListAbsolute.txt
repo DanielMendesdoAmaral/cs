@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\bin\Debug\netcoreapp3.1\Aula 24 - Métodos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 24 - Métodos\obj\Debug\netcoreapp3.1\Aula 24 - Métodos.genruntimeconfig.cache

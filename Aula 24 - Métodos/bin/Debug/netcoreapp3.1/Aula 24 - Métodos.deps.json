@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 24 - Métodos/1.0.0": {
+        "runtime": {
+          "Aula 24 - Métodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 24 - Métodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\bin\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 23 - Métodos para arrays\obj\Debug\netcoreapp3.1\Aula 23 - Métodos para arrays.genruntimeconfig.cache
