@@ -110,6 +110,15 @@ namespace Aula_23___Métodos_para_arrays
             foreach (int j in vetor3) {
                 System.Console.Write("{0} ", j);
             }
+            System.Console.WriteLine("\n");
+
+
+            //Colocar um valor em alguma posição
+            System.Console.WriteLine("SetValue");
+            vetor2.SetValue(99, 0); //Valor, posição
+            foreach (int n in vetor2) {
+                System.Console.Write("{0} ", n);
+            }
         }
     }
 }

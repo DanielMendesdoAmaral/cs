@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\bin\Debug\netcoreapp3.1\14- Analisador de números.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\14- Analisador de números\obj\Debug\netcoreapp3.1\14- Analisador de números.genruntimeconfig.cache

@@ -19,6 +19,5 @@ namespace Aula_26___Argumento_out
             resto = dividendo%divisor;
             return quociente;
         }
-
     }
 }

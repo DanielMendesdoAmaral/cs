@@ -17,6 +17,10 @@ namespace Aula_6___Formatando_a_saída_do_console
             System.Console.WriteLine("Val.Compra...:{0,15:c}", valorCompra); //Cach, formata como valor
             System.Console.WriteLine("Lucro........:{0,15:p}", lucro); //Porcentagem, formata como porcentagem
             System.Console.WriteLine("Val.Venda....:{0,15:c}", valorVenda);
+
+            int b = 3;
+
+            System.Console.WriteLine($"Teste {b}");
         }
     }
 }
