@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\bin\Debug\netcoreapp3.1\2- Classe triângulo.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\2- Classe triângulo\obj\Debug\netcoreapp3.1\2- Classe triângulo.genruntimeconfig.cache

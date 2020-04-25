@@ -22,7 +22,40 @@ namespace _2__Classe_triângulo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Triangulo t = new Triangulo();
+            System.Console.Write("Informe o tamanho do lado A: ");
+            t.ladoA = Convert.ToDouble(Console.ReadLine());
+            System.Console.Write("Informe o tamanho do lado B: ");
+            t.ladoB = Convert.ToDouble(Console.ReadLine());
+            System.Console.Write("Informe o tamanho do lado C: ");
+            t.ladoC = Convert.ToDouble(Console.ReadLine());
+            Console.Clear();
+            t.calcular_perimetro(t.ladoA, t.ladoB, t.ladoC);
+            t.maior_lado();
+        }
+    }
+
+    public class Triangulo {
+        public double ladoA;
+        public double ladoB;
+        public double ladoC;
+        public void calcular_perimetro(double a, double b, double c) {
+            double per=a+b+c;
+            System.Console.WriteLine($"O perímetro do triângulo é {per}.");
+        }
+
+        public void maior_lado() {
+            if (ladoA>ladoB || ladoA>ladoC) {
+                System.Console.WriteLine("O maior lado do triângulo é o lado A.");
+            }
+
+            else if (ladoB>ladoC) {
+                System.Console.WriteLine("O maior lado do triângulo é o lado B.");
+            }
+
+            else {
+                System.Console.WriteLine("O maior lado do triângulo é o lado C.");
+            }
         }
     }
 }
