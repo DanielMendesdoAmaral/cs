@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\bin\Debug\netcoreapp3.1\4- Classe aluno.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\4- Classe aluno\obj\Debug\netcoreapp3.1\4- Classe aluno.genruntimeconfig.cache
