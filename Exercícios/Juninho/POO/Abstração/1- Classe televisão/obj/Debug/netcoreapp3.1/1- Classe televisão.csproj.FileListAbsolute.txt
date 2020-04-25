@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\bin\Debug\netcoreapp3.1\1- Classe televisão.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\1- Classe televisão\obj\Debug\netcoreapp3.1\1- Classe televisão.genruntimeconfig.cache

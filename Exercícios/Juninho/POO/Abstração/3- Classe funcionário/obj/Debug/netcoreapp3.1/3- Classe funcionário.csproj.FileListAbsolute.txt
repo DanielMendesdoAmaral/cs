@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\bin\Debug\netcoreapp3.1\3- Classe funcionário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\3- Classe funcionário\obj\Debug\netcoreapp3.1\3- Classe funcionário.genruntimeconfig.cache
