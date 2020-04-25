@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\bin\Debug\netcoreapp3.1\5- Desenha moldura.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\5- Desenha moldura\obj\Debug\netcoreapp3.1\5- Desenha moldura.genruntimeconfig.cache

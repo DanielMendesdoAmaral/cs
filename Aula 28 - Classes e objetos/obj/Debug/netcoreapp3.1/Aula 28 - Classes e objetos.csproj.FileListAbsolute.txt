@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\bin\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 28 - Classes e objetos\obj\Debug\netcoreapp3.1\Aula 28 - Classes e objetos.genruntimeconfig.cache

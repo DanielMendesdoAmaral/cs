@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\bin\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\4- Positivo, neutro ou negativo\obj\Debug\netcoreapp3.1\4- Positivo, neutro ou negativo.genruntimeconfig.cache

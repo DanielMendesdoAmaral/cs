@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\bin\Debug\netcoreapp3.1\1- Dissecando matrizes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Matrizes\1- Dissecando matrizes\obj\Debug\netcoreapp3.1\1- Dissecando matrizes.genruntimeconfig.cache

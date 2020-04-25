@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\bin\Debug\netcoreapp3.1\2- Linhas e números 2.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Funções\2- Linhas e números 2\obj\Debug\netcoreapp3.1\2- Linhas e números 2.genruntimeconfig.cache
