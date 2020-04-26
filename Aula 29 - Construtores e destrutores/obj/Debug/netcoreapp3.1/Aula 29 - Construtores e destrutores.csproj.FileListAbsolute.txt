@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\bin\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 29 - Construtores e destrutores\obj\Debug\netcoreapp3.1\Aula 29 - Construtores e destrutores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\bin\Debug\netcoreapp3.1\5- Classe carro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Abstração\5- Classe carro\obj\Debug\netcoreapp3.1\5- Classe carro.genruntimeconfig.cache
