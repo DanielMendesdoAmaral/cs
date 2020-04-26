@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\bin\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 30 - Sobrecarga de construtores e de métodos\obj\Debug\netcoreapp3.1\Aula 30 - Sobrecarga de construtores e de métodos.genruntimeconfig.cache
