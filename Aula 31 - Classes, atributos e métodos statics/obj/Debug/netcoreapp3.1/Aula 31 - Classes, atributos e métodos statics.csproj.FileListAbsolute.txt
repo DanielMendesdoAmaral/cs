@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\bin\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 31 - Classes, atributos e métodos statics\obj\Debug\netcoreapp3.1\Aula 31 - Classes, atributos e métodos statics.genruntimeconfig.cache

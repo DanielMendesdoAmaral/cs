@@ -22,9 +22,9 @@ MODIFICADOR-CLASSE: Define a visibilidade da classe.
 
 
 ESPECIFICADOR-ACESSO: Onde um membro da classe pode ser acessado. 
-    //public: Sem restrição de acesso. 
-    //private: Só podem ser acessados pela própria classe. 
-    //protected: Podem ser acessadas pela própria classe e nas classes derivadas. 
+    //public: Sem restrição de acesso. "UML +", orelhão.
+    //private: Só podem ser acessados pela própria classe. "UML -", celular
+    //protected: Podem ser acessadas pela própria classe e nas classes derivadas. "UML #", tel. fixo de casa
     //abstract: Os métodos não tem implementação, somente os cabeçalhos. 
     //sealed: O método não pode ser redefinido. 
     //virtual: O método pode ser redefinido em uma classe derivada. 

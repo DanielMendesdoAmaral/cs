@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\bin\Debug\netcoreapp3.1\1- Classe ContaBanco.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Abstração\1- Classe ContaBanco\obj\Debug\netcoreapp3.1\1- Classe ContaBanco.genruntimeconfig.cache

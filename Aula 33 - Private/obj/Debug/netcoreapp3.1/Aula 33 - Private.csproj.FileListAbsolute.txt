@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\bin\Debug\netcoreapp3.1\Aula 33 - Private.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 33 - Private\obj\Debug\netcoreapp3.1\Aula 33 - Private.genruntimeconfig.cache
