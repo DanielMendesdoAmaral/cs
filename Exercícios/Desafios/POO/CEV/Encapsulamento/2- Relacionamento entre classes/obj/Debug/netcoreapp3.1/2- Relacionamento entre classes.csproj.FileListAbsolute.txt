@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\bin\Debug\netcoreapp3.1\2- Relacionamento entre classes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\CEV\Encapsulamento\2- Relacionamento entre classes\obj\Debug\netcoreapp3.1\2- Relacionamento entre classes.genruntimeconfig.cache

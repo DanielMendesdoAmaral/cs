@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\bin\Debug\netcoreapp3.1\1- Classe ControleRemoto.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\POO\Encapsulamento\1- Classe ControleRemoto\obj\Debug\netcoreapp3.1\1- Classe ControleRemoto.genruntimeconfig.cache
