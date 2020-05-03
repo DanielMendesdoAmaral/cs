@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\bin\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\4- Uma pessoa tem um emprego\obj\Debug\netcoreapp3.1\4- Uma pessoa tem um emprego.genruntimeconfig.cache

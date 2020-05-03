@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\bin\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\2- Um pedido possui uma lista de produtos\obj\Debug\netcoreapp3.1\2- Um pedido possui uma lista de produtos.genruntimeconfig.cache

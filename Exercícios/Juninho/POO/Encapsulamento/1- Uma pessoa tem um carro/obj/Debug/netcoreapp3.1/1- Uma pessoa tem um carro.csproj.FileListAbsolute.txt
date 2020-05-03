@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\bin\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\1- Uma pessoa tem um carro\obj\Debug\netcoreapp3.1\1- Uma pessoa tem um carro.genruntimeconfig.cache

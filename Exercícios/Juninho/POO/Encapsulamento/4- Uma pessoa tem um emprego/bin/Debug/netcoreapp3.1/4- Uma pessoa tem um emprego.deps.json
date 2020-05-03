@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "4- Uma pessoa tem um emprego/1.0.0": {
+        "runtime": {
+          "4- Uma pessoa tem um emprego.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4- Uma pessoa tem um emprego/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
