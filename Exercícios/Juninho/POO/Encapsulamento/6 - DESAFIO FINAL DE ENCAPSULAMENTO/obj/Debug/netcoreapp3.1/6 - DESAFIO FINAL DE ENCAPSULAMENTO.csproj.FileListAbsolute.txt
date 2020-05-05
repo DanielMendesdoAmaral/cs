@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\bin\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Encapsulamento\6 - DESAFIO FINAL DE ENCAPSULAMENTO\obj\Debug\netcoreapp3.1\6 - DESAFIO FINAL DE ENCAPSULAMENTO.genruntimeconfig.cache
