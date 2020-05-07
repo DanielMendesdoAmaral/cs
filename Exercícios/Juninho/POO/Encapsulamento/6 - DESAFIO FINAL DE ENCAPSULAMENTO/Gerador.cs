@@ -62,7 +62,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
             else
@@ -73,7 +73,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
         }
@@ -84,7 +84,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
             System.Console.ForegroundColor = System.ConsoleColor.Green;
             System.Console.WriteLine($"    Retornando ao menu principal...");
             System.Console.ForegroundColor = System.ConsoleColor.White;
-            System.Threading.Thread.Sleep(850);
+            System.Threading.Thread.Sleep(2000);
             System.Console.Clear();
         }
         public void Abastecer(int c)
@@ -96,7 +96,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
             else if (c<0)
@@ -106,7 +106,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
             else
@@ -116,7 +116,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.WriteLine($"    Abastecimento bem sucedido.");
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
         }
@@ -139,16 +139,16 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
 
         public void StatusTanques()
         {
-            if (GetCombustivel() < 0.2*especificacoes.GetTamanhoTanque())
+            if (combustivel < 0.2*especificacoes.GetTamanhoTanque())
             {
                 System.Console.ForegroundColor = System.ConsoleColor.Red;
-                System.Console.WriteLine($"    {GetCombustivel()}/{especificacoes.GetTamanhoTanque()}     (ABASTECER)");
+                System.Console.WriteLine($"    {combustivel}/{especificacoes.GetTamanhoTanque()}     (ABASTECER)");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
             }
             else
             {
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
-                System.Console.WriteLine($"    {GetCombustivel()}/{especificacoes.GetTamanhoTanque()}");
+                System.Console.WriteLine($"    {combustivel}/{especificacoes.GetTamanhoTanque()}");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
             }
         }

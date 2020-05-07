@@ -13,6 +13,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
             Especificacao g3 = new Especificacao(400, 7000, 85);
             Especificacao g4 = new Especificacao(850, 14500, 180);
             Gerador G1 = new Gerador(g1, "G1", 40);
+            G1.SetStatus("Ligado");
             Gerador G2 = new Gerador(g2, "G2", 250);
             Gerador G3 = new Gerador(g3, "G3", 30);
             Gerador G4 = new Gerador(g4, "G4", 850);
@@ -59,8 +60,8 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                         case "3":
                             System.Console.WriteLine();
                             G1.StatusTanques();
-                            G3.StatusTanques();
                             G2.StatusTanques();
+                            G3.StatusTanques();
                             G4.StatusTanques();
                         break;
                         case "4":

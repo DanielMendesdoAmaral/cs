@@ -18,7 +18,7 @@ MODIFICADOR-CLASSE: Define a visibilidade da classe.
     //public: Sem restrição de visualização. Quando não se coloca nada antes da classe, subentende-se que ela é public.
     //abstract: Classe base para outras classes. Não podem instanciar objetos. 
     //sealed: Não pode ser herdada. 
-    //static: Não podem instanciar objetos e seus membros devem ser igualmente statics. 
+    //static: Não podem instanciar objetos e seus membros devem ser igualmente statics. Estática. Uma vez tendo seu atributo definido, nunca mudará, é como uma variável constante.
 
 
 ESPECIFICADOR-ACESSO: Onde um membro da classe pode ser acessado. 
@@ -28,7 +28,7 @@ ESPECIFICADOR-ACESSO: Onde um membro da classe pode ser acessado.
     //abstract: Os métodos não tem implementação, somente os cabeçalhos. 
     //sealed: O método não pode ser redefinido. 
     //virtual: O método pode ser redefinido em uma classe derivada. 
-    //static: O método pode ser chamado mesmo sem a instanciação de um objeto.
+    //static: O método pode ser chamado mesmo sem a instanciação de um objeto. Uma vez tendo seu atributo definido, nunca mudará, é como uma variável constante.
 
 */
 

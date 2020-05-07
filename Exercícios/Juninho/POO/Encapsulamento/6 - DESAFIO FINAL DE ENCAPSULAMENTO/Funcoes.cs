@@ -26,7 +26,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                     System.Console.ForegroundColor = System.ConsoleColor.Red;
                     System.Console.Write($"    Erro! O gerador {nome} não existe.");
                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                    System.Threading.Thread.Sleep(850);
+                    System.Threading.Thread.Sleep(2000);
                     System.Console.Clear();
                 }
 
@@ -53,7 +53,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -63,12 +63,15 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                         {
                             case "1":
                                 G1.Desligar();
+                                G2.Desligar();
+                                G3.Desligar();
+                                G4.Desligar();
                             break;
                             case "2":
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             break;
                         }
@@ -89,7 +92,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -104,7 +107,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             break;
                         }
@@ -128,7 +131,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -143,7 +146,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                                 break;
                         }
@@ -164,7 +167,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -180,7 +183,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                     System.Console.ForegroundColor = System.ConsoleColor.Green;
                                     System.Console.WriteLine("    Retornando ao menu principal...");
                                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                                    System.Threading.Thread.Sleep(850);
+                                    System.Threading.Thread.Sleep(2000);
                                     System.Console.Clear();
                                 }
                                 else
@@ -192,7 +195,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             break;
                         }
@@ -216,7 +219,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -231,7 +234,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                                 break;
                         }
@@ -252,7 +255,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -268,7 +271,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                     System.Console.ForegroundColor = System.ConsoleColor.Green;
                                     System.Console.WriteLine("    Retornando ao menu principal...");
                                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                                    System.Threading.Thread.Sleep(850);
+                                    System.Threading.Thread.Sleep(2000);
                                     System.Console.Clear();
                                 }
                                 else
@@ -280,7 +283,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                                 break;
                         }
@@ -304,7 +307,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -319,7 +322,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                                 break;
                         }
@@ -340,7 +343,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Red;
                                 System.Console.WriteLine("    Erro! Entrada inválida!");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                             }
 
@@ -356,7 +359,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                     System.Console.ForegroundColor = System.ConsoleColor.Green;
                                     System.Console.WriteLine("    Retornando ao menu principal...");
                                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                                    System.Threading.Thread.Sleep(850);
+                                    System.Threading.Thread.Sleep(2000);
                                     System.Console.Clear();
                                 }
                                 else
@@ -368,7 +371,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                                 System.Console.WriteLine($"    Retornando ao menu principal...");
                                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                                System.Threading.Thread.Sleep(850);
+                                System.Threading.Thread.Sleep(2000);
                                 System.Console.Clear();
                                 break;
                         }
@@ -396,7 +399,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                     System.Console.ForegroundColor = System.ConsoleColor.Red;
                     System.Console.Write($"    Erro! O gerador {nome} não existe.");
                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                    System.Threading.Thread.Sleep(850);
+                    System.Threading.Thread.Sleep(2000);
                     System.Console.Clear();
                 }
 
@@ -436,7 +439,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                 System.Console.ForegroundColor = System.ConsoleColor.Green;
                 System.Console.WriteLine($"    Retornando ao menu principal...");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
-                System.Threading.Thread.Sleep(850);
+                System.Threading.Thread.Sleep(2000);
                 System.Console.Clear();
             }
         }
@@ -460,7 +463,7 @@ namespace _6___DESAFIO_FINAL_DE_ENCAPSULAMENTO
                     System.Console.ForegroundColor = System.ConsoleColor.Red;
                     System.Console.Write($"    Erro! O gerador {nome} não existe.");
                     System.Console.ForegroundColor = System.ConsoleColor.White;
-                    System.Threading.Thread.Sleep(850);
+                    System.Threading.Thread.Sleep(2000);
                     System.Console.Clear();
                 }
 

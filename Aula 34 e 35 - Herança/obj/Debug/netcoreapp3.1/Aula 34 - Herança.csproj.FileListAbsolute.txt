@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\bin\Debug\netcoreapp3.1\Aula 34 - Herança.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 34 - Herança\obj\Debug\netcoreapp3.1\Aula 34 - Herança.genruntimeconfig.cache
