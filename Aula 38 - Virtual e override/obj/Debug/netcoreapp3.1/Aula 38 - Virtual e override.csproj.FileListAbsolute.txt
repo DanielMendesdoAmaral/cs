@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\bin\Debug\netcoreapp3.1\Aula 38 - Virtual e override.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 38 - Virtual e override\obj\Debug\netcoreapp3.1\Aula 38 - Virtual e override.genruntimeconfig.cache

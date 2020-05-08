@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\bin\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 37 - Ordem de execução de construtores\obj\Debug\netcoreapp3.1\Aula 37 - Ordem de execução de construtores.genruntimeconfig.cache

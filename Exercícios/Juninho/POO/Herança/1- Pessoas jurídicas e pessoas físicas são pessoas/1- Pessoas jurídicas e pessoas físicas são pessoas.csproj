@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1__Pessoas_jurídicas_e_pessoas_físicas_são_pessoas</RootNamespace>
+  </PropertyGroup>
+
+</Project>

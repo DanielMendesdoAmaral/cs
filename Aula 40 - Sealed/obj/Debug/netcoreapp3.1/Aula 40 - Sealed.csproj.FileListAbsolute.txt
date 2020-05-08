@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\bin\Debug\netcoreapp3.1\Aula 40 - Sealed.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 40 - Sealed\obj\Debug\netcoreapp3.1\Aula 40 - Sealed.genruntimeconfig.cache

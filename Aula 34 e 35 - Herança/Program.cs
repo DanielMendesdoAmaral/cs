@@ -6,8 +6,8 @@ namespace Aula_34___Herança
     {
         static void Main(string[] args)
         {
-            Carro carro = new Carro(true); //Objeto carro com teto aberto
-            Caminhao caminhao = new Caminhao(true); //Objeto caminhao carregado
+            Carro carro = new Carro(true, 320, "Preto"); //Objeto carro com teto aberto
+            Caminhao caminhao = new Caminhao(true, 180, "Vermelho"); //Objeto caminhao carregado
         }
     }
 
@@ -45,7 +45,7 @@ namespace Aula_34___Herança
     public class Caminhao : Veiculo, ICaminhao{ //A classe caminhão é filha de Veículo, e implementa a interface ICaminhao.
         private bool carregado;
 
-        public Caminhao(bool c) : base (180, "Vermelho") { //Precisa colocar isso para os construtores também. Ou, da para fazer melhor: Não coloque um construtor na classe mãe e coloque o construtor nas classes filhas.
+        public Caminhao(bool c, int v, string cor) : base (v, cor) { //Precisa colocar isso para os construtores também. Assim, você irá relacionar os construtores da classe mãe com os da classe filha.
             SetCarregado(c);
         }
 
@@ -73,7 +73,7 @@ namespace Aula_34___Herança
     public class Carro : Veiculo, ICarro {
         private bool tetoSolarAberto;
 
-        public Carro(bool t) : base(320, "Preto") {
+        public Carro(bool t, int v, string c) : base(v, c) {
             SetTetoSolarAberto(t);
         }
 

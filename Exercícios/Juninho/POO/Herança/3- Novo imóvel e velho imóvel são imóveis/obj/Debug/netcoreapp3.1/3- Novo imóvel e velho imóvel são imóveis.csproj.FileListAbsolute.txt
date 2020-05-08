@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\bin\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\3- Novo imóvel e velho imóvel são imóveis\obj\Debug\netcoreapp3.1\3- Novo imóvel e velho imóvel são imóveis.genruntimeconfig.cache

@@ -16,8 +16,9 @@ modificador-classe class NomeDaClasse {
 
 MODIFICADOR-CLASSE: Define a visibilidade da classe.
     //public: Sem restrição de visualização. Quando não se coloca nada antes da classe, subentende-se que ela é public.
-    //abstract: Classe base para outras classes. Não podem instanciar objetos. 
-    //sealed: Não pode ser herdada. 
+    
+    //abstract: Classe base para outras classes. Não podem instanciar objetos. É bom usá-la quando for a primeira classe da árvore de herança (é como um protótipo).
+    //sealed: Não pode ser herdada. É a classe final na árvore de herança. Bom usá-la justamente para esse fim, quando ela for a classe final. Selado.
     //static: Não podem instanciar objetos e seus membros devem ser igualmente statics. Estática. Uma vez tendo seu atributo definido, nunca mudará, é como uma variável constante.
 
 
@@ -25,9 +26,10 @@ ESPECIFICADOR-ACESSO: Onde um membro da classe pode ser acessado.
     //public: Sem restrição de acesso. "UML +", orelhão.
     //private: Só podem ser acessados pela própria classe. "UML -", celular
     //protected: Podem ser acessadas pela própria classe e nas classes derivadas. "UML #", tel. fixo de casa
-    //abstract: Os métodos não tem implementação, somente os cabeçalhos. 
-    //sealed: O método não pode ser redefinido. 
-    //virtual: O método pode ser redefinido em uma classe derivada. 
+
+    //abstract: Os métodos não tem implementação, somente os cabeçalhos (é como um protótipo). Os métodos de interface são métodos abstratos. É apenas uma base, você não definirá nada nele, apenas em seu filho.
+    //sealed: O método não pode ser redefinido. Selado.
+    //virtual: O método pode ser redefinido (somente em uma classe derivada). 
     //static: O método pode ser chamado mesmo sem a instanciação de um objeto. Uma vez tendo seu atributo definido, nunca mudará, é como uma variável constante.
 
 */

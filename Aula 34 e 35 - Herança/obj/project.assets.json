@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 - Herança\\Aula 34 - Herança.csproj",
+      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 e 35 - Herança\\Aula 34 - Herança.csproj",
       "projectName": "Aula 34 - Herança",
-      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 - Herança\\Aula 34 - Herança.csproj",
+      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 e 35 - Herança\\Aula 34 - Herança.csproj",
       "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 - Herança\\obj\\",
+      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 34 e 35 - Herança\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",
