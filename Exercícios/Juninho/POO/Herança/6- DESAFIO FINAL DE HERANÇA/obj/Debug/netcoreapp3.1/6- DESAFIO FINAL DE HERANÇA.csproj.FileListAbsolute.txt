@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\bin\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\6- DESAFIO FINAL DE HERANÇA\obj\Debug\netcoreapp3.1\6- DESAFIO FINAL DE HERANÇA.genruntimeconfig.cache

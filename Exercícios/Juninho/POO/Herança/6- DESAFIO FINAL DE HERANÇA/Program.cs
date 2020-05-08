@@ -12,6 +12,7 @@ Para cada disciplina é necessário registrar seu nome.
 */
 
 using System;
+using System.Collections.Generic;
 
 namespace _6__DESAFIO_FINAL_DE_HERANÇA
 {
@@ -19,7 +20,145 @@ namespace _6__DESAFIO_FINAL_DE_HERANÇA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        }
+    }
+
+    public class Pessoa {
+        private string nome;
+        private string endereco;
+        private string fone;
+        private string cpf;
+
+        public Pessoa(string n, string e, string f, string c) {
+            SetNome(n);
+            SetEndereco(e);
+            SetFone(f);
+            SetCpf(c);
+        }
+
+        public string GetNome() {
+            return nome;
+        }
+        public void SetNome(string n) {
+            nome=n;
+        }
+        public string GetEndereco() {
+            return endereco;
+        }
+        public void SetEndereco(string e) {
+            endereco=e;
+        }
+        public string GetFone() {
+            return fone;
+        }
+        public void SetFone(string f) {
+            fone=f;
+        }
+        public string GetCpf() {
+            return cpf;
+        }
+        public void SetCpf(string c) {
+            cpf=c;
+        }
+    }
+
+    public interface IAluno {
+        void IncluirDisciplina(Disciplina d);
+    }
+
+    public class Aluno : Pessoa, IAluno {
+        private List<Disciplina> disciplina;
+
+        public Aluno(string n, string e, string f, string c) : base(n, e, f, c) {
+
+        }
+
+        public List<Disciplina> GetDisciplina() {
+            return disciplina;
+        }
+        public void SetDisciplina(Disciplina d) {
+            disciplina.Add(d);
+        }
+
+        public void IncluirDisciplina(Disciplina d) {
+            disciplina.Add(d);
+        }
+    }
+
+    public class Funcionario : Pessoa {
+        private double salario;
+
+        public Funcionario(string n, string e, string f, string c, double s) : base(n, e, f, c) {
+            SetSalario(s);
+        }
+
+        public double GetSalario() {
+            return salario;
+        }
+        public void SetSalario(double s) {
+            salario=s;
+        }
+    }
+
+    public class Disciplina {
+        private string nome;
+        private double cargaHoraria;
+
+        public Disciplina(string n, double c) {
+            SetNome(n);
+            SetCargaHoraria(c);
+        }
+
+        public string GetNome() {
+            return nome;
+        }
+        public void SetNome(string n) {
+            nome=n;
+        }
+        public double GetCargaHoraria() {
+            return cargaHoraria;
+        }
+        public void SetCargaHoraria(double c) {
+            cargaHoraria=c;
+        }
+    }
+
+    public interface IProfessor {
+        void IncluirDisciplina(Disciplina d);
+    }
+
+    public class Professor : Funcionario, IProfessor {
+        private string titulacao;
+        private List<Disciplina> disciplina;
+
+        public Professor (string n, string e, string f, string c, double s, string t) : base(n, e, f, c, s) {
+            SetTitulacao(t);
+        }
+
+        public string GetTitulacao() {
+            return titulacao;
+        }
+        public void SetTitulacao(string t) {
+            titulacao=t;
+        }
+
+        public void IncluirDisciplina(Disciplina d) {
+            disciplina.Add(d);
+        }
+    }
+
+    public class Tecnico : Funcionario {
+        private string cargo;
+
+        public Tecnico(string n, string e, string f, string c, double s, string car) : base(n, e, f, c, s) {
+            SetCargo(car);
+        }
+
+        public string GetCargo() {
+            return cargo;
+        }
+        public void SetCargo(string c) {
+            cargo=c;
         }
     }
 }
