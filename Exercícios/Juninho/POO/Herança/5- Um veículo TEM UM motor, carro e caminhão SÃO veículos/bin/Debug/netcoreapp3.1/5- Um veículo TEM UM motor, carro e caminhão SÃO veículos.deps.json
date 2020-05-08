@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "5- Um veículo TEM UM motor, carro e caminhão SÃO veículos/1.0.0": {
+        "runtime": {
+          "5- Um veículo TEM UM motor, carro e caminhão SÃO veículos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5- Um veículo TEM UM motor, carro e caminhão SÃO veículos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

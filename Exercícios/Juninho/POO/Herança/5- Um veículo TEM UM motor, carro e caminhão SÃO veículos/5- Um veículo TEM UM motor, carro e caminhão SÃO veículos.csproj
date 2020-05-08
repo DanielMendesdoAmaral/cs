@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_5__Um_veículo_TEM_UM_motor__carro_e_caminhão_SÃO_veículos</RootNamespace>
+  </PropertyGroup>
+
+</Project>
