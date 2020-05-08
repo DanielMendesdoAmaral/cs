@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\bin\Debug\netcoreapp3.1\4- Cachorro e gato são animais.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Herança\4- Cachorro e gato são animais\obj\Debug\netcoreapp3.1\4- Cachorro e gato são animais.genruntimeconfig.cache
