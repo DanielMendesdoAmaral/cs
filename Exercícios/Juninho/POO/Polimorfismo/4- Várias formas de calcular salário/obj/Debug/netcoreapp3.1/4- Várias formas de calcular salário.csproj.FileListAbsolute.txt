@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\bin\Debug\netcoreapp3.1\4- Várias formas de calcular salário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\4- Várias formas de calcular salário\obj\Debug\netcoreapp3.1\4- Várias formas de calcular salário.genruntimeconfig.cache

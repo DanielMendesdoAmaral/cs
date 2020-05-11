@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\bin\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 52 e 53 - Exceções\obj\Debug\netcoreapp3.1\Aula 52 e 53 - Exceções.genruntimeconfig.cache

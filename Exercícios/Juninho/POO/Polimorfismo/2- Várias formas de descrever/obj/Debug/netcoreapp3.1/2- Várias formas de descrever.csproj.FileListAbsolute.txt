@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\bin\Debug\netcoreapp3.1\2- Várias formas de descrever.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\2- Várias formas de descrever\obj\Debug\netcoreapp3.1\2- Várias formas de descrever.genruntimeconfig.cache

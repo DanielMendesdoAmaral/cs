@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\bin\Debug\netcoreapp3.1\1- Várias formas de emitir som.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\1- Várias formas de emitir som\obj\Debug\netcoreapp3.1\1- Várias formas de emitir som.genruntimeconfig.cache

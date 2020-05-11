@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\bin\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Juninho\POO\Polimorfismo\3- Várias formas de limpar e consertar\obj\Debug\netcoreapp3.1\3- Várias formas de limpar e consertar.genruntimeconfig.cache
