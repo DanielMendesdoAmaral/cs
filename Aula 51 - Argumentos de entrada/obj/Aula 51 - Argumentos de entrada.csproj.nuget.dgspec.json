@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 31 - Static\\Aula 31 - Classes, atributos e métodos statics.csproj": {}
+    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 51 - Argumentos de entrada\\Aula 51 - Argumentos de entrada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 31 - Static\\Aula 31 - Classes, atributos e métodos statics.csproj": {
+    "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 51 - Argumentos de entrada\\Aula 51 - Argumentos de entrada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 31 - Static\\Aula 31 - Classes, atributos e métodos statics.csproj",
-        "projectName": "Aula 31 - Classes, atributos e métodos statics",
-        "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 31 - Static\\Aula 31 - Classes, atributos e métodos statics.csproj",
+        "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 51 - Argumentos de entrada\\Aula 51 - Argumentos de entrada.csproj",
+        "projectName": "Aula 51 - Argumentos de entrada",
+        "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 51 - Argumentos de entrada\\Aula 51 - Argumentos de entrada.csproj",
         "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 31 - Static\\obj\\",
+        "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Aula 51 - Argumentos de entrada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\bin\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 51 - Argumentos de entrada\obj\Debug\netcoreapp3.1\Aula 51 - Argumentos de entrada.genruntimeconfig.cache
