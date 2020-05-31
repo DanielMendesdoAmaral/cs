@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\bin\Debug\netcoreapp3.1\Aula 54 - Namespaces.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 54 - Namespaces\obj\Debug\netcoreapp3.1\Aula 54 - Namespaces.genruntimeconfig.cache
