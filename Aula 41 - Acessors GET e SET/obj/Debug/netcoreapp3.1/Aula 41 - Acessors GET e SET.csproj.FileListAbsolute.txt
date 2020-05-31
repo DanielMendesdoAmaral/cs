@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\bin\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Aula 41 - Acessors GET e SET\obj\Debug\netcoreapp3.1\Aula 41 - Acessors GET e SET.genruntimeconfig.cache
