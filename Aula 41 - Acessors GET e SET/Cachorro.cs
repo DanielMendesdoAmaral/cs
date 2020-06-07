@@ -2,7 +2,7 @@ namespace Aula_41___Acessors_GET_e_SET
 {
     public class Cachorro
     {
-        private string cor;
+        private string cor; //Aqui também poderia ser escrito assim: private string cor { get; set; }.
 
         public string c {
             get {
