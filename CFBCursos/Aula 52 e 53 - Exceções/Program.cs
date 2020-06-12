@@ -80,6 +80,8 @@ namespace Aula_52_e_53___Exceções
                 System.Console.WriteLine("ERRO! Base ou altura tem que ser maior que zero.");
                 System.Console.ForegroundColor = System.ConsoleColor.White;
             }
+
+            //TAMBÉM DÁ PARA TER VÁRIOS CATCHS DE ACORDO COM O TIPO DA EXCEÇÃO.
         }
     }
 }

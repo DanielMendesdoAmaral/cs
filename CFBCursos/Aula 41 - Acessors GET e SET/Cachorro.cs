@@ -2,9 +2,9 @@ namespace Aula_41___Acessors_GET_e_SET
 {
     public class Cachorro
     {
-        private string cor; //Aqui também poderia ser escrito assim: private string cor { get; set; }.
+        private string cor; //Aqui também poderia ser escrito assim: private string cor { get; set; }, pois essa propriedade pode ser acessada e modificada.
 
-        public string c {
+        public string Cor {
             get {
                 return cor;
             }

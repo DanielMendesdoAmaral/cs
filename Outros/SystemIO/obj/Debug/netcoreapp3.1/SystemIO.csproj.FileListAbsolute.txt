@@ -1,0 +1,13 @@
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\bin\Debug\netcoreapp3.1\SystemIO.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Outros\SystemIO\obj\Debug\netcoreapp3.1\SystemIO.genruntimeconfig.cache
