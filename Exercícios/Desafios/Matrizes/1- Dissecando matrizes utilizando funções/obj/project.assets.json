@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes\\1- Dissecando matrizes.csproj",
+      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes utilizando funções\\1- Dissecando matrizes.csproj",
       "projectName": "1- Dissecando matrizes",
-      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes\\1- Dissecando matrizes.csproj",
+      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes utilizando funções\\1- Dissecando matrizes.csproj",
       "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes\\obj\\",
+      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Matrizes\\1- Dissecando matrizes utilizando funções\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

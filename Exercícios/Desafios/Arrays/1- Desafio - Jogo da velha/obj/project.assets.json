@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
+      "projectUniqueName": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Arrays\\1- Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
       "projectName": "Desafio - Jogo da velha",
-      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
+      "projectPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Arrays\\1- Desafio - Jogo da velha\\Desafio - Jogo da velha.csproj",
       "packagesPath": "C:\\Users\\Juninho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\Autodidata C#\\Exercícios\\Desafios\\Desafio - Jogo da velha\\obj\\",
+      "outputPath": "C:\\Users\\Juninho\\Desktop\\Códigos Daniel\\cs\\Exercícios\\Desafios\\Arrays\\1- Desafio - Jogo da velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juninho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

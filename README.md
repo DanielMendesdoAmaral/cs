@@ -1,1 +1,1 @@
-# ex-c-
+Exemplos/exercícios de lógica de programação/POO em C#.

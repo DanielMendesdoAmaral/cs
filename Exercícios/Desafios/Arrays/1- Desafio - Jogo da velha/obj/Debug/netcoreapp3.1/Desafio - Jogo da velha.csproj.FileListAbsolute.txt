@@ -37,3 +37,16 @@ C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Exercícios\Desafios\Desa
 C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Exercícios\Desafios\Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.dll
 C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Exercícios\Desafios\Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.pdb
 C:\Users\Juninho\Desktop\Códigos Daniel\Autodidata C#\Exercícios\Desafios\Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.genruntimeconfig.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.exe
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.deps.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.runtimeconfig.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.runtimeconfig.dev.json
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\bin\Debug\netcoreapp3.1\Desafio - Jogo da velha.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.csprojAssemblyReference.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.AssemblyInfoInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.AssemblyInfo.cs
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.dll
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.pdb
+C:\Users\Juninho\Desktop\Códigos Daniel\cs\Exercícios\Desafios\Arrays\1- Desafio - Jogo da velha\obj\Debug\netcoreapp3.1\Desafio - Jogo da velha.genruntimeconfig.cache

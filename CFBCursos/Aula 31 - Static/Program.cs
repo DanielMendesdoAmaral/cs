@@ -24,6 +24,9 @@ namespace Aula_31___Classes__atributos_e_métodos_statics
             Carros c1 = new Carros("BMW");
             Carros c2 = new Carros("Jetta");
             Carros c3 = new Carros("Civic");
+
+            //EX3: Não precisa de um objeto para chamar o método.
+            Aviao.Decolar();
         }
 
         //EX1: Classe static (atributos e métodos devem ser igualmente statics)
@@ -44,6 +47,13 @@ namespace Aula_31___Classes__atributos_e_métodos_statics
             public Carros(string m) {
                 modelo=m;
                 System.Console.WriteLine($"Seu carro {modelo} é {cor}.");
+            }
+        }
+
+        //EX3: Classe public com método static.
+        public class Aviao {
+            static public void Decolar() {
+                Console.WriteLine("Decolando");
             }
         }
     }
